@@ -1,0 +1,34 @@
+12/19-05:33:26.314028  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+12/19-05:33:26.355558  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:33:26.371515  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:33:26.423577  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:33:26.620235  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:33:27.343683  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ff53:1d8
+12/19-05:33:27.471903  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:48:02.220038  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+12/19-05:48:02.244929  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:48:02.735742  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:48:03.155781  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ff52:9fa2
+12/19-05:53:40.138293  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+12/19-05:53:41.146543  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+12/19-05:53:42.056088  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::16
+12/19-05:53:42.155883  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ff74:837c
+12/19-05:55:13.342864  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-05:55:14.344794  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-05:55:15.347456  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-05:59:10.224563  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-05:59:11.227069  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-05:59:12.228640  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-05:59:13.230066  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:01:57.648661  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:01:58.640637  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:08:19.514438  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:08:20.515713  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:08:21.519267  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:08:22.534123  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:16:24.157398  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:16:25.173562  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-06:16:26.160320  [**] [1:100001:1] ICMP Ping Detected [**] [Priority: 0] {ICMP} 8.8.8.8 -> 192.168.8.142
+12/19-07:36:06.955524  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {IPV6-ICMP} :: -> ff02::1:ff6d:bd44
+12/19-07:36:07.910035  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67
+12/19-07:36:18.016011  [**] [1:527:8] BAD-TRAFFIC same SRC/DST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 0.0.0.0:68 -> 255.255.255.255:67

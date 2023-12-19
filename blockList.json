@@ -1,0 +1,51 @@
+{
+  "blockList": [
+    {
+      "time": "12/19-09:15:10.123456",
+      "ip": "192.168.20.50",
+      "msg": "HTTP Request Blocked"
+    },
+    {
+      "time": "2023-12-19T17:54:58.267Z",
+      "ip": "192.168.8.1",
+      "msg": {
+        "time": "12/19-11:33:46.402180",
+        "protocol": "TCP",
+        "msg": "[1:100002:1] SSH Authentication Attempt",
+        "priority": "0",
+        "src_ip": "192.168.8.1",
+        "src_port": "64948",
+        "dst_ip": "192.168.8.142",
+        "dst_port": "22\r"
+      }
+    },
+    {
+      "time": "2023-12-19T19:18:52.475Z",
+      "ip": "0.0.0.0",
+      "msg": {
+        "time": "12/19-05:53:40.138293",
+        "protocol": "UDP",
+        "msg": "[1:527:8] BAD-TRAFFIC same SRC/DST",
+        "priority": "2",
+        "src_ip": "0.0.0.0",
+        "src_port": "68",
+        "dst_ip": "255.255.255.255",
+        "dst_port": "67\r"
+      }
+    },
+    {
+      "time": "2023-12-19T19:18:54.801Z",
+      "ip": "8.8.8.8",
+      "msg": {
+        "time": "12/19-06:08:19.514438",
+        "protocol": "ICMP",
+        "msg": "[1:100001:1] ICMP Ping Detected",
+        "priority": "0",
+        "src_ip": "8.8.8.8",
+        "src_port": "",
+        "dst_ip": "192.168.8.142\r",
+        "dst_port": ""
+      }
+    }
+  ]
+}
